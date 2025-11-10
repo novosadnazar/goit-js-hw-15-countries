@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAOA","sources":["src/style.css"],"sourcesContent":[".countries {\n    padding: 5px 10px 5px;\noutline: none;\n\n\n}\n\n.countries:hover{\n    outline: 1px solid blue;\n}"],"names":[],"version":3,"file":"goit-js-hw-15-countries.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
