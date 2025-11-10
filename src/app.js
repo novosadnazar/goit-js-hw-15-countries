@@ -93,7 +93,6 @@ function searchCountry(evt) {
     });
 }
 
-// =====================
 
 function errorMessage() {
     error({
