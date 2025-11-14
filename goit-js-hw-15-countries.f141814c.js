@@ -18,4 +18,4 @@ var t,e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:
                         class="app-cimg" width="400" height="300">
                 </div>
             </div>`).join("")});return}})},500));
-//# sourceMappingURL=countries-project.60b66867.js.map
+//# sourceMappingURL=goit-js-hw-15-countries.f141814c.js.map
